@@ -1,9 +1,9 @@
 variable "region" {
-  type = string
+  type    = string
   default = "eu-central-1"
 }
 
 variable "aws_profile" {
-  type = string
+  type    = string
   default = "techstarter"
 }
